@@ -202,6 +202,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Doug Ruocco";
 				TargetAttributes = {
+					F837E2BC1A1AB66600047A75 = {
+						DevelopmentTeam = 76UYQ6V824;
+					};
 					F837E2E01A1AB66700047A75 = {
 						TestTargetID = F837E2BC1A1AB66600047A75;
 					};
@@ -390,6 +393,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Git Test/Git Test-Prefix.pch";
 				INFOPLIST_FILE = "Git Test/Git Test-Info.plist";
@@ -403,6 +407,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Git Test/Git Test-Prefix.pch";
 				INFOPLIST_FILE = "Git Test/Git Test-Info.plist";
